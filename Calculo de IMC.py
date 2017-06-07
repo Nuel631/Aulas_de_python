@@ -9,6 +9,7 @@ while x=="s":
     p=float(input("Digite peso "))
     a=float(input("Digite altura "))
     imc=(p)/(a*a)
+    print(imc)
 
     if sx==("Masculino"):
 
